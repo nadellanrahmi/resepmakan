@@ -1,0 +1,19 @@
+{
+  "error" : false,
+  "message" : "Berhasil ambil data",
+  "posts": [
+    {
+      "id": 1,
+      "sumbergambar": "@/assets/images/ayammm.png",
+      "keterangan": "Ayam",
+      "jumlah": "5"
+    },
+    {
+      "id": 2,
+      "sumbergambar": "@/assets/images/resep.png.jpeg",
+      "keterangan": "bubur",
+      "jumlah": "5"
+    }
+  ]
+  
+}
